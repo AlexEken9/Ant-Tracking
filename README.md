@@ -27,8 +27,8 @@ pip install -r requirements.txt
 
 3. **Uso**:
 
-1. Completar celdas en el apartado "Configuration" del notebook.
-2. Ejecutar todas las celdas.
-3. Esperar a que se procese por completo tu vídeo :-)
+- Completar celdas en el apartado "Configuration" del notebook.
+- Ejecutar todas las celdas.
+- Esperar a que se procese por completo tu vídeo :-)
 
 4. **Contacto**:
