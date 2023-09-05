@@ -1,6 +1,4 @@
-# Nombre del Proyecto (TFG)
-
-Una breve descripción de tu proyecto.
+# Ant Tracker + Load Detection (TFG)
 
 ## Tabla de Contenidos
 
@@ -22,11 +20,15 @@ git clone https://github.com/tu_usuario/mi_tfg.git
 cd mi_tfg
 python -m venv env
 source env/bin/activate  # En Windows: .\env\Scripts\activate
-
+```
 2. **Instalar Dependencias**:
 
 pip install -r requirements.txt
 
 3. **Uso**:
+
+1. Completar celdas en el apartado "Configuration" del notebook.
+2. Ejecutar todas las celdas.
+3. Esperar a que se procese por completo tu vídeo :-)
 
 4. **Contacto**:
