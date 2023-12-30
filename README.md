@@ -1,10 +1,12 @@
 # Ant Tracker + Load Detection (TFG)
+<img width="227" alt="image" src="https://github.com/AlexEken9/Ant-Tracking/assets/100586169/edbcde65-52b0-47ff-a37c-d0839167868d">
 
+- [Demo](https://youtube.com/playlist?list=PLXNToW0GyR3tp9SetUicFbWEKQyucFLtw&si=nqJO2QnrD2egJdSH)
+- [Paper](https://drive.google.com/file/d/1pTxIMTsD7Pnlx1tZaKDwDyPMZ0x4ltMl/view?usp=sharing)
 ## Tabla de Contenidos
 
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Contacto](#contacto)
 
 ## Instalación
 
@@ -31,4 +33,3 @@ pip install -r requirements.txt
 - Ejecutar todas las celdas.
 - Esperar a que se procese por completo tu vídeo :-)
 
-4. **Contacto**:
